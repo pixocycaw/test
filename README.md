@@ -5,9 +5,6 @@ Welcome to the Testing GitHub repository! This repository is intended for testin
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 This repository is a test project to get familiar with GitHub's basic features such as version control, issues, pull requests, and collaboration.
