@@ -1,0 +1,23 @@
+body {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f8f8f8;
+}
+
+h2, h3 {
+    font-weight: 700;
+}
+
+p {
+    margin-bottom: 10px;
+    text-align: justify;
+}
+
+.red-box {
+    font-weight: bold;
+}
+
+.grey-box {
+    font-size: 16px;
+}

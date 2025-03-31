@@ -1,0 +1,15 @@
+.oposiciones {
+    list-style-type: square;
+}
+
+.cursos_especializados {
+    list-style-type: circle;
+}
+
+.fpt {
+    list-style-type: lower-roman;
+}
+
+.services {
+    list-style-type: square;
+}
